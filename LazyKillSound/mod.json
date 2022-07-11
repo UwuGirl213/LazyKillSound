@@ -1,0 +1,7 @@
+{
+	"Name" : "KillSound",
+	"Description" : "Use this if you are lazy to use zpk tool, if it doesnt work ping me @KingPiss#2446",
+	"Version": "1",
+	"LoadPriority": 4,
+	"RequiredOnClient": false,
+}
