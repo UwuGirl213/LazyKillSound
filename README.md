@@ -9,9 +9,7 @@
 https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9-b090-575db52d3e4a.mp4
 
 # How to install?
--Copy "LazyKillSound" to mods folder (R2Northstar/mods) and Copy the contents "MOVE TO TITANFALL 2 FOLDER" to the Titanfall2 folder 
-
-**only copy the contents not the folder**
+-Copy "LazyKillSound" to mods folder (R2Northstar/mods) or just install it with your mod manager of choice 
 
 -If you dont know where to dowload it you can download [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/Northstar_1.9.0/KINGPISS-LazyKillSound-1.0.6.zip) or via Thunderstore
 
@@ -28,5 +26,9 @@ https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9
 
 
 
-# Kingpiss, it doesnt work! :(
+# Uwugirl, I properly installed it, still doesnt work :(
+If its your first time doing this you should download 
+
+# Uwugirl, it still doesnt work! :(
 Ping @KingPiss#2446 if nothing works, dont be shy :)
+
