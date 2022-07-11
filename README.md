@@ -9,7 +9,7 @@
 https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9-b090-575db52d3e4a.mp4
 
 # How to install?
--Download and extract "LazyKillSound" to mods folder (R2Northstar/mods) or just install it with your mod manager of choice 
+-Download and extract "LazyKillSound" to the mods folder (R2Northstar/mods) or just install it with your mod manager 
 
 -If you dont know where to dowload it you can download [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/Northstar_1.9.0/KINGPISS-LazyKillSound-1.0.6.zip) or via Thunderstore
 
