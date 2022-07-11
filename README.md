@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9
 
 
 # Uwugirl, I properly installed it, still doesnt work :(
-If its your first time doing this you should download and extract 
+If its your first time doing this you should download [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/Northstar_1.9.0/MOVE.TO.TITANFALL.2.FOLDER.zip) and extract 
 
 "MOVE TO TITANFALL 2 FOLDER.zip" and copy it to your titanfall 2 Directory
 
