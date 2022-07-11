@@ -4,9 +4,15 @@
 
 
 
-
+# Preview 1
 
 https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9-b090-575db52d3e4a.mp4
+
+# Preview 2 
+
+
+https://user-images.githubusercontent.com/109063810/178300429-53bf2663-195a-4c33-b594-8a453d72d911.mp4
+
 
 # How to install?
 -Download and extract "LazyKillSound" to the mods folder (R2Northstar/mods) or just install it with your mod manager 
