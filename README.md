@@ -27,7 +27,10 @@ https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9
 
 
 # Uwugirl, I properly installed it, still doesnt work :(
-If its your first time doing this you should download 
+If its your first time doing this you should download and extract 
+
+"MOVE TO TITANFALL 2 FOLDER.zip" and copy it to your titanfall 2 Directory
+
 
 # Uwugirl, it still doesnt work! :(
 Ping @KingPiss#2446 if nothing works, dont be shy :)
