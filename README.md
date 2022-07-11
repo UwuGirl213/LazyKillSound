@@ -1,4 +1,4 @@
-# LazyKillSound
+# **LazyKillSound**
 **An easier way to install new killsounds for lazy people like me**
 
 
@@ -27,4 +27,4 @@ https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9
 
 
 # Kingpiss, it doesnt work! :(
-Ping @KingPiss#2446 if nothing works, dont be shy  
+Ping @KingPiss#2446 if nothing works, dont be shy :)
