@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/109063810/178217547-6ac814ab-c3e6-49f9
 
 **only copy the contents not the folder**
 
--If you dont know where to dowload it you can download [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/Northstar_1.9.0/LazyKillSound.zip) or via Thunderstore
+-If you dont know where to dowload it you can download [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/Northstar_1.9.0/KINGPISS-LazyKillSound-1.0.6.zip) or via Thunderstore
 
 # How to add my own killsound?
 -Download one from youtube via yt to mp4 converter(make sure its mp4 or else it wont work)  
