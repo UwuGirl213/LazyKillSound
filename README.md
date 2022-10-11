@@ -28,6 +28,8 @@ https://user-images.githubusercontent.com/109063810/178300429-53bf2663-195a-4c33
 **download here incase you dont have it yet http://www.radgametools.com/bnkdown.htm**
 
 
+-Name your bik file "killsound'
+
 -After successfully turning it into a bik file copy it to media (r2/media)
 
 
@@ -41,3 +43,6 @@ If its your first time doing this you should download [here](https://github.com/
 # Uwugirl, it still doesnt work! :(
 Ping @KingPiss#2446 if nothing works, dont be shy :)
 
+# Problem fixes as of now
+If you have S2 client kill callback:
+dont install lazykillsound but replace the obituary file on the S2Clientkill
