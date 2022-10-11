@@ -50,5 +50,3 @@ dont install lazykillsound but replace the obituary file on the S2Clientkill
 
 Download and move [cl_Obituary](https://github.com/UwuGirl213/LazyKillSound/releases/download/fix/cl_obituary.gnut) to S2.ClientKillCallback\mod\scripts\vscripts\client 
 
-
-Download and move to S2.ClientKillCallback\mod\scripts\vscripts\client
