@@ -45,6 +45,10 @@ Ping @KingPiss#2446 if nothing works, dont be shy :)
 
 # Problem fixes as of now
 If you have S2 client kill callback:
+
 dont install lazykillsound but replace the obituary file on the S2Clientkill
-Obituary file: [here](https://github.com/UwuGirl213/LazyKillSound/releases/download/fix/cl_obituary.gnut) 
+
+Download and move [cl_Obituary](https://github.com/UwuGirl213/LazyKillSound/releases/download/fix/cl_obituary.gnut) to S2.ClientKillCallback\mod\scripts\vscripts\client 
+
+
 Download and move to S2.ClientKillCallback\mod\scripts\vscripts\client
